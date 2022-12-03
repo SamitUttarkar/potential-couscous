@@ -1,0 +1,623 @@
+,Wardname,Population2011Census,GeneralFertilityRate,Malelifeexpectancy,Femalelifeexpectancy
+0,Bromley - Darwin,5110.0,63.8,81.2,82.4
+1,Kensington and Chelsea - Royal Hospital,7252.0,52.3,80.5,89.6
+2,Hillingdon - Harefield,7399.0,55.8,78.3,82.3
+3,Hammersmith and Fulham - Palace Riverside,7483.0,40.0,80.9,89.0
+4,Kensington and Chelsea - Pembridge,7659.0,40.4,82.1,85.7
+5,Kensington and Chelsea - Cremorne,7964.0,51.8,83.2,89.7
+6,Westminster - Tachbrook,8158.0,33.3,82.2,83.1
+7,Kensington and Chelsea - Campden,8178.0,51.5,82.2,85.0
+8,Kensington and Chelsea - Stanley,8187.0,48.2,81.2,82.8
+9,Kensington and Chelsea - Colville,8377.0,53.3,78.0,88.4
+10,Merton - Village,8491.0,49.7,82.6,86.3
+11,Kensington and Chelsea - Norland,8675.0,73.9,87.0,88.6
+12,Kingston upon Thames - Chessington North and Hook,8741.0,58.9,79.0,87.4
+13,Kensington and Chelsea - Hans Town,8792.0,48.2,98.1,92.3
+14,Kensington and Chelsea - Brompton,8839.0,47.3,84.8,90.5
+15,Kensington and Chelsea - Courtfield,8933.0,49.6,83.5,92.2
+16,Kensington and Chelsea - Golborne,8937.0,51.9,85.8,86.0
+17,Kingston upon Thames - St. James,8969.0,74.1,79.1,83.9
+18,Merton - Hillside,8977.0,60.0,81.0,91.7
+19,Merton - Lower Morden,9090.0,67.7,80.1,86.6
+20,Kensington and Chelsea - Earl's Court,9104.0,44.9,82.2,92.6
+21,Hammersmith and Fulham - College Park and Old Oak,9175.0,46.5,74.4,83.1
+22,Kensington and Chelsea - Redcliffe,9245.0,46.9,81.7,89.1
+23,Kingston upon Thames - Alexandra,9246.0,55.1,80.8,84.4
+24,Merton - Cannon Hill,9249.0,66.9,79.7,83.6
+25,Westminster - Knightsbridge and Belgravia,9270.0,30.9,89.9,93.4
+26,Merton - Dundonald,9275.0,77.3,80.0,90.1
+27,Kensington and Chelsea - St. Charles,9343.0,59.5,78.9,82.3
+28,Westminster - Warwick,9369.0,40.7,80.7,95.1
+29,Richmond upon Thames - Hampton North,9387.0,47.3,80.7,87.3
+30,Kingston upon Thames - Old Malden,9431.0,62.6,82.4,85.9
+31,Kingston upon Thames - Berrylands,9437.0,60.4,78.4,83.9
+32,Merton - Merton Park,9485.0,57.1,84.5,88.5
+33,Kensington and Chelsea - Notting Barns,9537.0,67.1,78.9,84.7
+34,Kingston upon Thames - Tudor,9578.0,61.7,82.5,86.4
+35,Sutton - Sutton South,9599.0,85.8,77.2,81.7
+36,Westminster - Churchill,9618.0,46.0,74.6,81.9
+37,Lambeth - Bishop's,9675.0,38.2,78.0,84.0
+38,Sutton - Carshalton South and Clockhouse,9715.0,53.7,80.2,82.0
+39,Merton - Raynes Park,9738.0,82.3,80.0,83.8
+40,Kingston upon Thames - Coombe Vale,9750.0,51.4,80.2,85.3
+41,Richmond upon Thames - Whitton,9752.0,76.8,79.7,85.8
+42,Kensington and Chelsea - Holland,9767.0,72.6,90.4,86.1
+43,Merton - Trinity,9798.0,93.8,80.6,83.9
+44,Merton - Graveney,9816.0,91.8,82.9,85.6
+45,Bromley - Shortlands,9824.0,48.2,83.0,87.9
+46,Kingston upon Thames - Tolworth and Hook Rise,9833.0,74.0,80.3,89.7
+47,Barking and Dagenham - Parsloes,9839.0,94.1,76.8,81.8
+48,Kensington and Chelsea - Queen's Gate,9847.0,50.7,94.5,86.6
+49,Merton - West Barnes,9862.0,82.0,82.9,82.4
+50,Barking and Dagenham - Valence,9867.0,101.1,72.6,78.0
+51,Bromley - Biggin Hill,9951.0,60.0,82.2,86.2
+52,Merton - Ravensbury,9968.0,93.2,78.0,81.4
+53,Richmond upon Thames - Hampton,9985.0,78.5,81.1,86.6
+54,Richmond upon Thames - South Twickenham,9987.0,74.1,82.5,87.0
+55,Bromley - Mottingham and Chislehurst North,9987.0,70.0,76.6,81.2
+56,Westminster - Vincent Square,9988.0,39.0,80.3,90.4
+57,Kensington and Chelsea - Abingdon,10013.0,62.2,84.6,87.1
+58,Barking and Dagenham - Chadwell Heath,10021.0,76.7,78.9,82.7
+59,Merton - Longthornton,10024.0,74.1,78.2,84.0
+60,Harrow - Pinner,10026.0,62.5,80.7,84.9
+61,Sutton - Carshalton Central,10039.0,60.5,82.9,85.4
+62,Sutton - Belmont,10048.0,65.5,78.6,82.1
+63,Harrow - Headstone North,10093.0,47.6,81.3,85.4
+64,Kingston upon Thames - Norbiton,10107.0,67.4,76.2,78.2
+65,Kingston upon Thames - Beverley,10109.0,66.1,76.8,80.0
+66,Richmond upon Thames - Fulwell and Hampton Hill,10131.0,69.6,78.4,80.7
+67,Sutton - The Wrythe,10163.0,63.8,77.5,83.9
+68,Sutton - Wallington South,10200.0,53.0,178.0,81.7
+69,Westminster - Maida Vale,10210.0,71.6,87.6,88.8
+70,Richmond upon Thames - Hampton Wick,10221.0,60.9,79.7,84.4
+71,Kingston upon Thames - Chessington South,10232.0,60.9,80.0,83.3
+72,Merton - Lavender Fields,10273.0,76.2,80.8,80.9
+73,Sutton - Cheam,10285.0,46.3,82.3,83.0
+74,Tower Hamlets - Spitalfields and Banglatown,10286.0,35.7,92.7,93.7
+75,Merton - Pollards Hill,10287.0,81.0,80.2,85.2
+76,Waltham Forest - Chingford Green,10287.0,60.6,77.7,84.4
+77,Richmond upon Thames - Barnes,10299.0,64.0,82.3,84.8
+78,Westminster - Bayswater,10300.0,43.2,91.6,85.1
+79,Sutton - Beddington North,10309.0,69.2,79.3,83.0
+80,Richmond upon Thames - Heathfield,10313.0,80.0,80.2,82.3
+81,"Richmond upon Thames - Ham, Petersham & Richmond Riverside",10317.0,68.8,78.3,86.4
+82,Merton - Abbey,10323.0,52.6,80.0,81.0
+83,Richmond upon Thames - Teddington,10330.0,51.9,81.9,83.4
+84,Barking and Dagenham - Mayesbrook,10342.0,104.5,76.6,82.2
+85,Richmond upon Thames - East Sheen,10348.0,85.9,84.5,88.5
+86,Sutton - Sutton North,10355.0,60.5,76.9,82.9
+87,Kingston upon Thames - Coombe Hill,10357.0,43.9,80.4,83.0
+88,Westminster - Marylebone High Street,10366.0,36.5,84.4,83.9
+89,Harrow - West Harrow,10373.0,60.8,81.4,82.6
+90,Barking and Dagenham - Alibon,10385.0,103.7,76.3,80.9
+91,Hillingdon - Ickenham,10387.0,57.1,81.9,85.4
+92,Richmond upon Thames - Twickenham Riverside,10396.0,73.8,78.4,81.0
+93,Greenwich - Eltham West,10399.0,47.9,74.2,81.7
+94,Harrow - Pinner South,10411.0,61.1,82.7,93.1
+95,Merton - St. Helier,10414.0,98.3,78.6,81.6
+96,Bexley - Barnehurst,10418.0,61.0,78.6,85.8
+97,Redbridge - Monkhams,10422.0,53.7,80.9,82.5
+98,Bexley - Longlands,10442.0,52.5,79.6,81.3
+99,Kingston upon Thames - Surbiton Hill,10459.0,54.2,79.1,81.9
+100,Hillingdon - Northwood,10469.0,50.4,81.4,83.9
+101,Kingston upon Thames - St. Mark's,10483.0,54.8,81.4,81.3
+102,Bexley - St. Mary's,10491.0,61.2,80.7,92.6
+103,Barking and Dagenham - Eastbrook,10506.0,65.9,76.6,79.0
+104,Richmond upon Thames - West Twickenham,10528.0,88.4,79.2,83.4
+105,Sutton - Sutton West,10536.0,63.2,79.4,82.2
+106,Bexley - Brampton,10546.0,43.9,80.4,84.9
+107,Westminster - West End,10575.0,38.1,93.2,99.6
+108,Barking and Dagenham - Whalebone,10575.0,84.0,81.0,84.1
+109,Bexley - Northumberland Heath,10598.0,50.0,78.5,82.9
+110,Hillingdon - West Ruislip,10611.0,55.8,80.4,85.3
+111,Bexley - Blackfen and Lamorbey,10616.0,53.3,84.2,84.6
+112,Westminster - Little Venice,10633.0,70.0,80.2,92.5
+113,Sutton - Nonsuch,10641.0,52.0,81.6,87.4
+114,Richmond upon Thames - North Richmond,10649.0,76.4,83.8,86.1
+115,Sutton - Wallington North,10650.0,77.5,78.9,81.3
+116,Sutton - Beddington South,10667.0,59.6,76.9,83.7
+117,Newham - Royal Docks,10679.0,63.9,80.6,83.1
+118,Harrow - Hatch End,10693.0,55.3,82.0,84.3
+119,Merton - Colliers Wood,10712.0,62.9,77.6,83.3
+120,Sutton - Stonecot,10712.0,45.6,78.7,85.2
+121,Barking and Dagenham - Thames,10728.0,115.1,79.2,84.2
+122,Waltham Forest - Endlebury,10730.0,54.9,80.4,84.4
+123,Haringey - Muswell Hill,10784.0,56.3,77.4,81.5
+124,Hammersmith and Fulham - Ravenscourt Park,10785.0,47.0,78.3,86.2
+125,Barking and Dagenham - Heath,10786.0,83.4,75.1,79.3
+126,Barking and Dagenham - Village,10787.0,99.1,76.0,80.9
+127,Bexley - Falconwood and Welling,10800.0,58.1,78.2,82.8
+128,Croydon - New Addington,10801.0,72.7,74.4,80.5
+129,Hammersmith and Fulham - Parsons Green and Walham,10813.0,61.6,80.3,84.6
+130,Richmond upon Thames - South Richmond,10820.0,55.2,78.7,83.6
+131,Westminster - St. James's,10828.0,37.2,80.4,86.4
+132,Bexley - Sidcup,10844.0,43.7,76.4,78.8
+133,Bexley - East Wickham,10858.0,71.2,79.0,84.0
+134,Bexley - Danson Park,10864.0,53.6,79.8,84.3
+135,Camden - Bloomsbury,10892.0,22.1,77.2,81.6
+136,Bexley - Blendon and Penhill,10910.0,59.0,82.4,85.3
+137,Richmond upon Thames - Mortlake and Barnes Common,10919.0,96.8,77.8,85.5
+138,Barking and Dagenham - River,10923.0,80.4,73.2,77.9
+139,Kingston upon Thames - Grove,10955.0,52.9,77.7,88.8
+140,Camden - Highgate,10955.0,45.9,82.3,84.1
+141,Bexley - Christchurch,10965.0,61.9,77.8,80.9
+142,Sutton - Sutton Central,10993.0,78.5,75.7,80.3
+143,Hammersmith and Fulham - Fulham Broadway,10996.0,50.4,76.2,79.4
+144,Hammersmith and Fulham - Munster,11004.0,54.5,85.3,84.5
+145,Waltham Forest - Hatch Lane,11058.0,73.8,78.6,82.9
+146,Hackney - Brownswood,11091.0,41.0,77.9,83.9
+147,Hackney - King's Park,11098.0,66.2,77.2,85.7
+148,Harrow - Rayners Lane,11124.0,64.9,82.1,85.0
+149,Bexley - Colyers,11128.0,85.7,78.2,80.2
+150,Bexley - St. Michael's,11135.0,56.4,83.2,88.4
+151,Harrow - Headstone South,11135.0,73.0,80.0,89.5
+152,Harrow - Kenton East,11138.0,60.4,78.2,85.9
+153,Richmond upon Thames - St. Margarets & North Twickenham,11172.0,61.7,84.1,94.5
+154,Harrow - Kenton West,11173.0,64.8,82.0,86.6
+155,Merton - Wimbledon Park,11197.0,81.1,84.7,86.1
+156,Hammersmith and Fulham - Town,11201.0,47.3,78.8,81.1
+157,Bexley - Cray Meadows,11207.0,61.7,76.9,79.5
+158,Bexley - Crayford,11226.0,64.2,77.4,87.5
+159,Harrow - Stanmore Park,11229.0,67.4,80.2,81.1
+160,Merton - Figge's Marsh,11240.0,114.6,75.9,80.2
+161,Westminster - Abbey Road,11250.0,68.5,81.5,85.1
+162,Camden - Gospel Oak,11264.0,53.7,74.9,82.5
+163,Barking and Dagenham - Goresbrook,11267.0,97.4,79.3,81.4
+164,Camden - Hampstead Town,11270.0,57.5,82.7,86.6
+165,Hammersmith and Fulham - Fulham Reach,11306.0,40.9,82.0,92.7
+166,Waltham Forest - Larkswood,11337.0,71.4,77.5,83.6
+167,Harrow - Belmont,11343.0,81.1,82.1,85.5
+168,Hounslow - Chiswick Homefields,11346.0,52.3,78.7,83.6
+169,Bexley - Lesnes Abbey,11346.0,75.5,79.6,84.3
+170,Waltham Forest - Hale End and Highams Park,11355.0,75.5,80.2,84.3
+171,Harrow - Harrow Weald,11376.0,65.1,80.6,85.7
+172,Harrow - Wealdstone,11394.0,94.0,75.5,81.4
+173,Hounslow - Hanworth Park,11408.0,72.7,77.7,82.4
+174,Hounslow - Hounslow South,11409.0,60.7,83.6,88.7
+175,Richmond upon Thames - Kew,11436.0,66.7,79.0,88.4
+176,Hillingdon - Manor,11442.0,53.6,80.0,83.1
+177,Waltham Forest - Valley,11444.0,75.2,77.5,80.9
+178,Hounslow - Turnham Green,11448.0,52.2,77.9,83.8
+179,Merton - Cricket Green,11474.0,120.0,78.5,87.0
+180,Barking and Dagenham - Longbridge,11478.0,98.4,76.5,82.4
+181,Croydon - Fieldway,11479.0,78.1,75.4,78.6
+182,Islington - Clerkenwell,11490.0,29.2,77.6,84.9
+183,Redbridge - Church End,11516.0,67.5,81.4,84.6
+184,Hammersmith and Fulham - Addison,11518.0,49.4,78.8,88.6
+185,Hounslow - Chiswick Riverside,11543.0,76.7,85.4,82.2
+186,Redbridge - Wanstead,11543.0,70.2,79.9,84.3
+187,Barking and Dagenham - Becontree,11545.0,67.4,75.3,81.0
+188,Islington - St. Mary's,11553.0,47.0,73.6,82.4
+189,Southwark - East Walworth,11557.0,58.2,74.5,81.9
+190,Hounslow - Feltham North,11563.0,84.3,73.5,77.3
+191,Bexley - North End,11566.0,89.6,74.0,79.0
+192,Hillingdon - Northwood Hills,11578.0,76.7,78.9,86.0
+193,Hammersmith and Fulham - North End,11589.0,42.3,79.1,89.8
+194,Barking and Dagenham - Eastbury,11624.0,90.9,79.9,85.2
+195,Sutton - Wandle Valley,11630.0,79.3,77.3,84.6
+196,Haringey - Highgate,11632.0,50.0,79.5,85.4
+197,Islington - Highbury East,11634.0,64.2,76.7,80.5
+198,Harrow - Edgware,11653.0,91.0,79.6,83.9
+199,Sutton - Worcester Park,11655.0,83.0,81.1,83.7
+200,Redbridge - Bridge,11658.0,50.0,79.4,83.6
+201,Hillingdon - Cavendish,11658.0,59.2,80.6,84.0
+202,Harrow - Roxeth,11663.0,69.2,81.6,82.6
+203,Croydon - Selsdon and Ballards,11719.0,51.8,84.5,89.4
+204,Hackney - Wick,11734.0,53.4,74.9,82.7
+205,Camden - Fortune Green,11740.0,52.6,80.7,84.8
+206,Haringey - Stroud Green,11758.0,40.0,77.0,89.9
+207,Westminster - Church Street,11760.0,54.3,73.4,76.4
+208,Islington - Hillrise,11794.0,56.8,74.9,80.6
+209,Haringey - Alexandra,11795.0,65.8,79.2,83.5
+210,Southwark - College,11812.0,69.5,75.8,81.6
+211,Islington - St. Peter's,11822.0,62.3,76.7,80.1
+212,Camden - King's Cross,11843.0,34.1,76.9,81.5
+213,Redbridge - Snaresbrook,11865.0,68.8,77.9,84.8
+214,Bexley - Belvedere,11890.0,78.6,77.9,82.5
+215,Hammersmith and Fulham - Hammersmith Broadway,11923.0,43.4,74.0,81.9
+216,Camden - Cantelowes,11925.0,46.0,77.2,82.5
+217,Sutton - St. Helier,11949.0,86.2,75.8,81.1
+218,Hounslow - Isleworth,11977.0,89.7,74.9,82.9
+219,Havering - Emerson Park,11977.0,52.2,78.7,81.3
+220,Harrow - Queensbury,11984.0,68.8,77.7,85.2
+221,Camden - Frognal and Fitzjohns,11986.0,55.6,80.0,85.6
+222,Westminster - Bryanston and Dorset Square,11991.0,56.0,85.6,88.7
+223,Islington - Junction,12025.0,40.0,77.0,83.3
+224,Westminster - Harrow Road,12034.0,77.5,77.1,92.1
+225,Camden - Kilburn,12038.0,59.4,72.0,78.9
+226,Redbridge - Roding,12044.0,68.0,80.3,83.8
+227,Hillingdon - Uxbridge North,12048.0,63.1,77.2,83.0
+228,Bexley - Erith,12053.0,106.7,78.3,82.8
+229,Camden - West Hampstead,12060.0,55.6,77.9,83.0
+230,Westminster - Regent's Park,12067.0,54.1,80.9,83.5
+231,Islington - Canonbury,12072.0,50.0,74.7,84.1
+232,Bexley - Thamesmead East,12094.0,117.0,77.9,83.8
+233,Brent - Kenton,12133.0,57.9,83.7,86.2
+234,Hillingdon - Eastcote and East Ruislip,12142.0,54.3,80.5,87.4
+235,Hounslow - Hanworth,12155.0,85.0,77.5,87.1
+236,Hammersmith and Fulham - Shepherd's Bush Green,12175.0,52.6,72.7,85.4
+237,Hillingdon - Heathrow Villages,12199.0,86.9,75.8,82.8
+238,Islington - Barnsbury,12201.0,45.1,75.0,79.5
+239,Hackney - Clissold,12212.0,60.9,77.1,83.5
+240,Hammersmith and Fulham - Avonmore and Brook Green,12216.0,43.0,79.2,82.9
+241,Croydon - Coulsdon East,12244.0,65.1,81.8,85.7
+242,Bromley - Crystal Palace,12255.0,70.6,75.5,82.0
+243,Harrow - Marlborough,12259.0,75.1,78.9,84.3
+244,Havering - Hacton,12262.0,45.4,80.6,85.2
+245,Harrow - Harrow on the Hill,12270.0,78.4,81.2,84.2
+246,Hackney - Lordship,12280.0,111.6,75.1,84.8
+247,Hounslow - Heston Central,12288.0,80.8,77.2,83.2
+248,Hounslow - Heston East,12319.0,83.5,85.6,86.2
+249,Southwark - East Dulwich,12321.0,76.7,81.2,82.9
+250,Hounslow - Cranford,12330.0,117.4,78.4,86.8
+251,Hillingdon - South Ruislip,12364.0,82.1,77.6,83.8
+252,Camden - Haverstock,12364.0,65.9,76.7,81.4
+253,Kingston upon Thames - Canbury,12373.0,77.1,77.2,81.6
+254,Hackney - Springfield,12378.0,126.5,80.2,84.2
+255,Haringey - Crouch End,12395.0,59.1,78.1,82.3
+256,Islington - St. George's,12400.0,44.6,75.4,82.9
+257,Southwark - Village,12402.0,65.5,77.9,81.6
+258,Tower Hamlets - St. Katherine's and Wapping,12411.0,61.0,76.1,79.1
+259,Harrow - Greenhill,12420.0,63.3,76.4,82.1
+260,Hounslow - Heston West,12438.0,87.3,79.7,82.5
+261,Hackney - Stoke Newington Central,12445.0,50.1,74.9,85.9
+262,Barking and Dagenham - Gascoigne,12452.0,130.2,73.4,83.6
+263,Westminster - Hyde Park,12462.0,46.0,87.9,91.3
+264,Havering - Elm Park,12466.0,63.2,76.9,84.5
+265,Harrow - Canons,12471.0,72.9,81.1,87.2
+266,Havering - Rainham and Wennington,12482.0,64.2,77.2,82.0
+267,Haringey - Fortis Green,12488.0,49.2,81.5,87.3
+268,Greenwich - Eltham North,12519.0,57.9,77.9,86.0
+269,Lambeth - Thornton,12526.0,65.8,79.0,85.2
+270,Havering - Cranham,12528.0,47.0,80.8,84.5
+271,Greenwich - Eltham South,12541.0,61.9,77.4,85.8
+272,Hackney - Hackney Central,12548.0,68.7,75.0,80.3
+273,Hackney - New River,12551.0,128.2,79.9,82.8
+274,Westminster - Queen's Park,12563.0,83.3,76.8,83.8
+275,Havering - Heaton,12570.0,61.6,76.7,81.0
+276,Redbridge - Barkingside,12609.0,68.7,81.0,85.7
+277,Waltham Forest - Forest,12609.0,99.6,77.9,80.7
+278,Camden - Camden Town with Primrose Hill,12613.0,56.3,79.6,84.4
+279,Hillingdon - Charville,12622.0,83.5,81.6,86.0
+280,Southwark - South Camberwell,12629.0,56.9,76.4,84.6
+281,Redbridge - Fairlop,12630.0,89.8,80.2,81.1
+282,Havering - Harold Wood,12650.0,60.4,79.8,82.6
+283,Hounslow - Hounslow West,12658.0,95.8,76.4,81.5
+284,Haringey - Hornsey,12659.0,57.5,74.7,83.2
+285,Waltham Forest - Cathall,12700.0,79.3,74.9,81.6
+286,Hounslow - Bedfont,12701.0,83.9,77.3,80.9
+287,Camden - Belsize,12702.0,83.4,82.3,83.9
+288,Enfield - Grange,12709.0,60.0,82.5,86.1
+289,Westminster - Westbourne,12759.0,69.0,73.8,78.0
+290,Hammersmith and Fulham - Sands End,12760.0,48.6,78.2,81.8
+291,Croydon - Sanderstead,12777.0,55.7,82.5,84.2
+292,Redbridge - Cranbrook,12780.0,83.3,77.5,83.0
+293,Barking and Dagenham - Abbey,12786.0,103.7,82.9,87.2
+294,Brent - Northwick Park,12811.0,39.4,80.7,81.6
+295,Harrow - Roxbourne,12828.0,62.1,75.0,84.5
+296,Havering - Upminster,12833.0,38.6,80.1,81.6
+297,Southwark - Faraday,12839.0,65.5,78.3,83.5
+298,Lambeth - Clapham Common,12852.0,43.3,77.8,82.1
+299,Greenwich - Blackheath Westcombe,12875.0,69.3,79.4,83.8
+300,Waltham Forest - Leytonstone,12879.0,60.0,76.8,84.0
+301,Camden - Swiss Cottage,12900.0,68.6,81.6,85.0
+302,Hillingdon - Hillingdon East,12906.0,83.7,77.6,83.5
+303,Redbridge - Fullwell,12910.0,75.1,78.8,83.2
+304,Havering - Mawneys,12915.0,65.3,80.2,89.2
+305,Islington - Mildmay,12917.0,48.5,76.9,81.0
+306,Hackney - Hackney Downs,12921.0,67.4,74.9,83.3
+307,Tower Hamlets - Bow West,12939.0,60.3,74.0,80.9
+308,Havering - Hylands,12952.0,43.1,77.8,84.5
+309,Redbridge - Hainault,12953.0,80.4,78.1,83.8
+310,Havering - Pettits,12955.0,59.6,81.0,83.9
+311,Hillingdon - Yiewsley,12979.0,72.0,74.9,81.1
+312,Havering - Havering Park,13000.0,58.0,75.3,79.0
+313,Enfield - Highlands,13006.0,50.7,81.5,90.5
+314,Brent - Brondesbury Park,13023.0,67.2,80.3,84.7
+315,Camden - Holborn and Covent Garden,13023.0,40.3,75.6,82.8
+316,Hounslow - Osterley and Spring Grove,13031.0,86.3,80.0,84.7
+317,Greenwich - Coldharbour and New Eltham,13062.0,75.2,79.0,83.6
+318,Redbridge - Goodmayes,13069.0,103.0,79.9,83.2
+319,Southwark - Brunswick Park,13174.0,73.3,78.8,90.7
+320,Waltham Forest - Higham Hill,13194.0,107.4,75.8,88.0
+321,Havering - Squirrel's Heath,13194.0,63.0,81.6,89.5
+322,Westminster - Lancaster Gate,13195.0,46.5,93.7,88.1
+323,Tower Hamlets - Weavers,13206.0,55.1,78.9,82.2
+324,Croydon - Heathfield,13213.0,56.9,84.1,83.7
+325,Hackney - Victoria,13231.0,62.9,79.4,86.8
+326,Hackney - Chatham,13232.0,63.2,72.5,81.4
+327,Redbridge - Clayhall,13241.0,63.8,84.0,85.4
+328,Waltham Forest - William Morris,13269.0,102.7,77.5,80.7
+329,Haringey - Harringay,13272.0,64.0,78.4,81.8
+330,Islington - Tollington,13311.0,46.2,72.4,80.8
+331,Ealing - Walpole,13330.0,66.8,79.0,85.5
+332,Havering - St. Andrew's,13334.0,65.7,77.1,79.1
+333,Tower Hamlets - Mile End East,13354.0,74.3,73.4,78.7
+334,Waltham Forest - Wood Street,13368.0,102.1,75.3,83.2
+335,Haringey - West Green,13372.0,65.0,75.6,86.2
+336,Hammersmith and Fulham - Wormholt and White City,13389.0,70.6,78.1,85.9
+337,Hackney - Cazenove,13392.0,116.6,74.4,86.7
+338,Enfield - Winchmore Hill,13403.0,68.8,78.5,81.5
+339,Newham - Custom House,13411.0,91.8,73.7,77.4
+340,Camden - Kentish Town,13417.0,55.2,73.5,78.4
+341,Brent - Dollis Hill,13425.0,81.2,79.8,87.5
+342,Haringey - White Hart Lane,13431.0,73.0,74.2,79.0
+343,Greenwich - Shooters Hill,13433.0,87.2,78.0,86.2
+344,Southwark - Surrey Docks,13435.0,57.5,85.5,82.9
+345,Ealing - Southall Broadway,13439.0,103.1,81.2,82.4
+346,Brent - Fryent,13445.0,94.0,82.2,90.2
+347,Croydon - Coulsdon West,13449.0,58.7,80.0,82.8
+348,Hillingdon - Barnhill,13449.0,75.1,75.6,82.5
+349,Ealing - Southfield,13474.0,74.3,80.7,86.7
+350,Greenwich - Middle Park and Sutcliffe,13505.0,75.3,76.8,84.7
+351,Ealing - Northfield,13517.0,63.4,84.2,85.2
+352,Southwark - Peckham Rye,13518.0,75.6,75.6,81.2
+353,Camden - Regent's Park,13528.0,53.5,74.8,83.8
+354,Havering - South Hornchurch,13544.0,63.2,76.9,81.8
+355,Hounslow - Syon,13554.0,80.3,73.0,79.4
+356,Hillingdon - Yeading,13586.0,105.9,78.4,82.4
+357,Southwark - Nunhead,13620.0,70.4,71.2,77.3
+358,Waltham Forest - Markhouse,13636.0,97.6,75.9,78.0
+359,Lambeth - Thurlow Park,13641.0,61.1,76.8,84.0
+360,Hackney - De Beauvoir,13643.0,53.7,77.7,81.5
+361,Bromley - Petts Wood and Knoll,13651.0,61.4,84.2,88.5
+362,Hackney - Queensbridge,13670.0,69.8,75.9,82.6
+363,Redbridge - Mayfield,13672.0,111.4,78.1,82.9
+364,Tower Hamlets - Bethnal Green North,13683.0,54.5,73.6,78.6
+365,Lambeth - Gipsy Hill,13712.0,70.1,77.2,83.0
+366,Haringey - Bounds Green,13725.0,61.9,74.2,81.6
+367,Southwark - Rotherhithe,13743.0,54.8,76.3,79.2
+368,Brent - Welsh Harp,13753.0,85.0,81.2,88.5
+369,Enfield - Chase,13762.0,63.5,76.8,80.8
+370,Southwark - South Bermondsey,13780.0,60.5,77.2,81.1
+371,Enfield - Southgate Green,13787.0,57.8,78.2,85.2
+372,Enfield - Cockfosters,13788.0,46.1,81.5,86.8
+373,Lambeth - Clapham Town,13795.0,37.9,75.5,81.7
+374,Waltham Forest - Cann Hall,13799.0,106.8,77.0,81.3
+375,Camden - St. Pancras and Somers Town,13818.0,75.8,75.5,85.3
+376,Hillingdon - Brunel,13841.0,47.2,78.2,83.4
+377,Newham - East Ham North,13866.0,92.8,71.3,76.9
+378,Islington - Caledonian,13896.0,49.2,75.5,81.9
+379,Ealing - Lady Margaret,13897.0,91.3,78.2,81.9
+380,Hackney - Haggerston,13904.0,39.8,73.8,84.1
+381,Ealing - Dormers Wells,13910.0,76.8,77.0,82.3
+382,Waltham Forest - Hoe Street,13912.0,79.1,75.9,81.7
+383,Enfield - Bush Hill Park,13923.0,61.1,79.6,84.0
+384,Haringey - Noel Park,13939.0,53.0,74.8,84.7
+385,Hillingdon - Uxbridge South,13979.0,36.6,75.1,81.8
+386,Brent - Alperton,14017.0,87.6,76.7,87.0
+387,Ealing - Ealing Common,14019.0,49.6,77.0,86.3
+388,Ealing - Ealing Broadway,14029.0,49.7,79.7,85.0
+389,Ealing - Norwood Green,14032.0,70.7,78.2,79.9
+390,Hackney - Leabridge,14039.0,71.9,73.7,78.1
+391,Lewisham - Blackheath,14039.0,56.8,77.4,82.4
+392,Greenwich - Peninsula,14051.0,68.2,74.6,85.1
+393,Enfield - Bowes,14051.0,85.4,78.5,83.8
+394,Waltham Forest - Chapel End,14086.0,103.4,75.8,86.7
+395,Hillingdon - Townfield,14106.0,94.6,74.8,79.4
+396,Redbridge - Valentines,14123.0,99.7,75.9,86.4
+397,Waltham Forest - High Street,14127.0,97.4,78.4,81.7
+398,Southwark - Livesey,14129.0,80.0,77.0,81.5
+399,Southwark - Newington,14136.0,48.1,77.5,83.2
+400,Lambeth - Vassall,14143.0,47.1,74.3,82.1
+401,Hammersmith and Fulham - Askew,14160.0,50.8,74.6,78.2
+402,Wandsworth - Shaftesbury,14160.0,51.0,80.8,84.9
+403,Tower Hamlets - Bethnal Green South,14166.0,51.0,77.1,87.3
+404,Waltham Forest - Leyton,14184.0,83.6,79.0,80.7
+405,Ealing - Hobbayne,14229.0,77.7,77.5,86.0
+406,Lewisham - Whitefoot,14249.0,71.4,77.5,82.7
+407,Redbridge - Chadwell,14257.0,90.5,77.9,81.8
+408,Lambeth - Prince's,14262.0,65.9,74.5,81.5
+409,Lambeth - Streatham Hill,14263.0,57.1,76.4,79.9
+410,Croydon - Shirley,14296.0,71.4,83.0,85.4
+411,Greenwich - Kidbrooke with Hornfair,14300.0,73.2,76.2,84.1
+412,Lambeth - Streatham South,14336.0,69.3,81.3,84.5
+413,Ealing - Greenford Green,14349.0,94.4,79.0,84.0
+414,Hounslow - Brentford,14353.0,62.7,76.7,85.7
+415,Enfield - Jubilee,14355.0,92.0,77.2,82.2
+416,Islington - Finsbury Park,14358.0,46.8,74.2,78.8
+417,Hillingdon - West Drayton,14370.0,77.9,75.3,81.9
+418,Enfield - Turkey Street,14377.0,74.1,76.2,81.4
+419,Greenwich - Charlton,14385.0,89.3,74.1,79.9
+420,Southwark - Riverside,14390.0,50.0,78.0,80.8
+421,Haringey - Northumberland Park,14429.0,81.7,73.8,84.0
+422,Enfield - Southgate,14454.0,67.0,81.1,85.4
+423,Tower Hamlets - Bromley-by-Bow,14480.0,80.8,76.3,83.0
+424,Haringey - Bruce Grove,14483.0,83.9,75.2,83.0
+425,Enfield - Southbury,14506.0,87.5,79.6,81.3
+426,Bromley - Chelsfield and Pratts Bottom,14507.0,52.6,83.0,85.6
+427,Haringey - Woodside,14514.0,59.0,74.0,84.4
+428,Lewisham - Ladywell,14515.0,63.6,74.5,79.2
+429,Ealing - Elthorne,14539.0,71.4,74.8,85.5
+430,Redbridge - Aldborough,14544.0,69.2,77.4,82.2
+431,Lambeth - St. Leonard's,14550.0,69.1,76.2,82.3
+432,Ealing - Cleveland,14558.0,59.1,76.8,85.9
+433,Lewisham - Downham,14567.0,66.7,74.3,81.8
+434,Lewisham - Lee Green,14573.0,78.0,77.1,81.2
+435,Wandsworth - Bedford,14575.0,51.1,78.2,82.6
+436,Ealing - Southall Green,14579.0,111.7,75.9,87.1
+437,Haringey - Tottenham Green,14580.0,64.6,72.5,82.8
+438,Waltham Forest - Grove Green,14604.0,80.5,74.4,80.8
+439,Croydon - Purley,14607.0,79.6,79.6,83.6
+440,Wandsworth - Fairfield,14613.0,46.2,77.2,80.3
+441,Bromley - Farnborough and Crofton,14632.0,53.1,79.6,86.6
+442,Haringey - St. Ann's,14638.0,76.2,73.6,81.8
+443,Islington - Bunhill,14639.0,44.5,75.5,82.1
+444,Lewisham - Grove Park,14648.0,66.4,77.2,82.2
+445,Redbridge - Clementswood,14666.0,93.1,76.7,81.2
+446,Wandsworth - Nightingale,14679.0,63.3,75.3,79.2
+447,Havering - Gooshays,14692.0,68.6,76.3,80.4
+448,Ealing - North Greenford,14713.0,87.7,79.8,87.4
+449,Southwark - Peckham,14720.0,89.0,75.8,77.8
+450,Croydon - Ashburton,14721.0,60.0,78.5,82.3
+451,Brent - Wembley Central,14727.0,88.1,76.8,88.2
+452,Hounslow - Hounslow Heath,14727.0,97.2,76.0,87.6
+453,Hackney - Dalston,14727.0,57.2,80.9,79.8
+454,Wandsworth - West Putney,14742.0,50.4,75.6,79.9
+455,Wandsworth - Balham,14751.0,59.5,79.3,84.4
+456,Lambeth - Knight's Hill,14763.0,73.7,74.4,79.4
+457,Hillingdon - Pinkwell,14767.0,94.4,74.5,86.2
+458,Lewisham - Bellingham,14775.0,76.6,75.2,79.1
+459,Tower Hamlets - Bow East,14781.0,64.2,71.3,80.8
+460,Newham - Canning Town North,14810.0,72.4,74.6,75.9
+461,Bromley - Chislehurst,14831.0,59.7,81.2,83.0
+462,Wandsworth - Thamesfield,14842.0,63.7,81.4,82.9
+463,Newham - Wall End,14846.0,89.0,78.6,80.3
+464,Lewisham - Forest Hill,14854.0,74.1,76.5,80.4
+465,Tower Hamlets - East India and Lansbury,14859.0,102.2,74.9,81.8
+466,Tower Hamlets - Whitechapel,14862.0,66.9,73.6,83.2
+467,Ealing - South Acton,14873.0,62.9,76.4,79.8
+468,Bromley - West Wickham,14884.0,52.2,80.9,84.7
+469,Enfield - Town,14906.0,61.6,79.9,83.8
+470,Lambeth - Streatham Wells,14906.0,68.6,75.4,77.7
+471,Brent - Kensal Green,14915.0,94.6,76.7,83.1
+472,Lewisham - Rushey Green,14916.0,78.2,75.2,80.1
+473,Lewisham - Crofton Park,14937.0,84.4,78.5,86.4
+474,Wandsworth - Northcote,14940.0,72.9,80.1,81.1
+475,Southwark - Cathedrals,14941.0,26.6,75.0,93.3
+476,Brent - Sudbury,14950.0,115.0,80.5,84.8
+477,Havering - Brooklands,14957.0,67.1,73.8,77.7
+478,Croydon - Kenley,14966.0,76.0,78.0,80.7
+479,Islington - Holloway,14983.0,35.0,72.8,81.1
+480,Wandsworth - East Putney,15022.0,45.7,80.7,85.1
+481,Islington - Highbury West,15030.0,54.4,75.3,85.1
+482,Southwark - Camberwell Green,15032.0,69.6,74.4,85.1
+483,Lambeth - Ferndale,15032.0,37.5,74.8,82.6
+484,Hillingdon - Botwell,15034.0,94.5,75.6,82.0
+485,Brent - Dudden Hill,15059.0,76.0,85.3,88.1
+486,Haringey - Tottenham Hale,15064.0,69.1,75.7,78.3
+487,Bromley - Bickley,15098.0,57.7,78.3,81.5
+488,Brent - Tokyngton,15105.0,99.6,80.5,86.6
+489,Lambeth - Oval,15106.0,42.1,77.1,79.8
+490,Lambeth - Herne Hill,15107.0,67.3,74.3,82.8
+491,Tower Hamlets - Shadwell,15110.0,78.3,81.0,95.2
+492,Newham - Green Street West,15113.0,86.8,80.7,86.6
+493,Bromley - Bromley Common and Keston,15113.0,63.5,79.8,83.6
+494,Ealing - Northolt West End,15121.0,102.2,78.6,86.0
+495,Bromley - Plaistow and Sundridge,15122.0,68.7,77.8,81.2
+496,Newham - Beckton,15141.0,55.1,81.9,82.6
+497,Brent - Queensbury,15155.0,73.2,85.1,85.8
+498,Barnet - Totteridge,15159.0,68.7,80.3,83.0
+499,Enfield - Palmers Green,15162.0,64.8,78.9,83.3
+500,Redbridge - Seven Kings,15164.0,82.3,78.0,79.7
+501,Hounslow - Hounslow Central,15169.0,81.6,78.5,87.0
+502,Hackney - Hoxton,15174.0,47.7,77.9,84.0
+503,Southwark - Chaucer,15178.0,36.3,88.5,97.5
+504,Ealing - Northolt Mandeville,15183.0,91.7,77.6,85.0
+505,Tower Hamlets - Mile End and Globe Town,15190.0,35.2,76.5,86.4
+506,Wandsworth - Graveney,15198.0,63.8,76.9,84.0
+507,Lewisham - Catford South,15214.0,68.9,77.4,81.4
+508,Wandsworth - Wandsworth Common,15247.0,72.8,76.7,79.6
+509,Brent - Queens Park,15281.0,76.3,80.4,87.9
+510,Barnet - High Barnet,15307.0,56.5,78.2,82.3
+511,Bromley - Orpington,15311.0,57.0,79.1,84.6
+512,Newham - Manor Park,15318.0,97.6,75.3,79.5
+513,Ealing - Perivale,15339.0,88.3,82.6,87.0
+514,Wandsworth - Latchmere,15358.0,59.1,73.0,81.5
+515,Southwark - Grange,15362.0,59.7,77.9,81.1
+516,Bromley - Copers Cope,15392.0,61.5,77.4,82.4
+517,Ealing - Acton Central,15427.0,75.1,81.3,90.7
+518,Bromley - Cray Valley East,15445.0,70.1,77.6,81.1
+519,Wandsworth - Earlsfield,15448.0,68.1,76.1,84.2
+520,Newham - Plaistow North,15470.0,96.0,75.3,82.2
+521,Brent - Preston,15474.0,100.4,80.1,86.2
+522,Wandsworth - Furzedown,15504.0,74.2,77.2,81.4
+523,Brent - Mapesbury,15529.0,72.6,78.6,86.0
+524,Hounslow - Feltham West,15541.0,93.6,77.1,82.7
+525,Newham - West Ham,15551.0,64.1,77.2,80.9
+526,Bromley - Clock House,15560.0,77.7,78.8,84.7
+527,Ealing - Hanger Hill,15561.0,71.1,83.2,88.2
+528,Southwark - The Lane,15565.0,87.8,74.5,83.8
+529,Newham - East Ham South,15575.0,100.0,74.9,80.2
+530,Brent - Willesden Green,15587.0,54.4,78.2,88.1
+531,Lewisham - Sydenham,15605.0,71.8,75.4,80.3
+532,Lewisham - Perry Vale,15618.0,73.5,76.2,80.8
+533,Enfield - Ponders End,15664.0,61.6,77.6,80.8
+534,Waltham Forest - Lea Bridge,15671.0,107.0,73.2,77.7
+535,Greenwich - Abbey Wood,15704.0,105.3,74.3,81.1
+536,Barnet - Finchley Church End,15715.0,72.1,82.4,86.3
+537,Lewisham - New Cross,15756.0,74.9,73.7,78.2
+538,Lambeth - Tulse Hill,15771.0,63.2,77.4,81.4
+539,Brent - Barnhill,15772.0,79.0,79.6,82.7
+540,Croydon - Croham,15790.0,77.8,78.9,83.3
+541,Barnet - Oakleigh,15811.0,72.5,78.9,84.3
+542,Lambeth - Brixton Hill,15842.0,44.5,74.8,78.4
+543,Newham - Green Street East,15885.0,96.4,81.9,83.0
+544,Bromley - Kelsey and Eden Park,15892.0,46.1,82.0,85.0
+545,Bromley - Hayes and Coney Hall,15906.0,48.9,80.5,86.7
+546,Barnet - Underhill,15915.0,48.9,78.2,82.6
+547,Newham - East Ham Central,15917.0,104.2,75.1,81.7
+548,Havering - Romford Town,15921.0,70.0,76.4,81.0
+549,Barnet - Garden Suburb,15929.0,73.5,82.7,87.3
+550,Haringey - Seven Sisters,15968.0,90.7,77.6,89.3
+551,Newham - Boleyn,15982.0,89.0,75.6,82.4
+552,Tower Hamlets - Limehouse,15986.0,70.3,77.0,79.3
+553,Barnet - East Finchley,15989.0,67.8,79.3,84.9
+554,Newham - Canning Town South,15996.0,59.8,74.5,85.9
+555,Enfield - Enfield Highway,16027.0,70.6,78.1,86.2
+556,Croydon - Upper Norwood,16082.0,82.2,78.1,82.8
+557,Wandsworth - Roehampton,16132.0,48.3,74.1,81.2
+558,Barnet - East Barnet,16137.0,65.8,80.5,84.5
+559,Croydon - Bensham Manor,16201.0,90.1,80.9,84.3
+560,Tower Hamlets - St. Dunstan's and Stepney Green,16238.0,92.9,71.6,77.3
+561,Wandsworth - Tooting,16239.0,57.3,76.0,79.7
+562,Wandsworth - Southfields,16256.0,70.0,78.9,89.8
+563,Newham - Forest Gate North,16257.0,69.6,74.2,79.8
+564,Enfield - Haselbury,16263.0,83.4,81.0,83.4
+565,Wandsworth - Queenstown,16331.0,42.0,76.9,84.6
+566,Barnet - Brunswick Park,16394.0,55.2,83.8,83.2
+567,Wandsworth - West Hill,16402.0,56.1,75.8,78.3
+568,Newham - Plaistow South,16404.0,102.3,75.4,83.4
+569,Lewisham - Telegraph Hill,16414.0,53.8,76.4,78.8
+570,Enfield - Enfield Lock,16469.0,91.1,76.4,79.1
+571,Croydon - Norbury,16476.0,73.7,81.5,82.8
+572,Croydon - South Norwood,16518.0,75.6,75.6,84.4
+573,Greenwich - Greenwich West,16527.0,64.3,75.6,82.1
+574,Enfield - Lower Edmonton,16531.0,111.2,75.7,79.8
+575,Barnet - West Finchley,16533.0,64.6,79.9,81.6
+576,Croydon - Thornton Heath,16539.0,87.1,75.6,82.8
+577,Wandsworth - St. Mary's Park,16556.0,64.6,72.5,76.2
+578,Croydon - Fairfield,16569.0,74.2,79.2,80.9
+579,Lewisham - Evelyn,16603.0,65.5,76.7,84.0
+580,Newham - Little Ilford,16633.0,107.8,71.2,78.9
+581,Barnet - Edgware,16728.0,76.4,80.1,83.6
+582,Greenwich - Plumstead,16736.0,106.6,74.0,83.3
+583,Croydon - Woodside,16743.0,75.4,79.3,80.6
+584,Redbridge - Newbury,16760.0,84.5,78.8,83.8
+585,Bromley - Cray Valley West,16769.0,68.2,76.6,82.6
+586,Lambeth - Coldharbour,16784.0,63.0,73.1,80.0
+587,Bromley - Bromley Town,16826.0,73.4,78.0,81.1
+588,Croydon - Addiscombe,16883.0,64.9,76.8,81.4
+589,Brent - Stonebridge,16903.0,72.6,75.1,87.9
+590,Brent - Kilburn,16989.0,81.4,76.2,84.2
+591,Croydon - Waddon,17077.0,74.1,74.8,80.1
+592,Barnet - Colindale,17098.0,68.6,76.4,84.6
+593,Lewisham - Brockley,17156.0,53.0,75.0,80.1
+594,Brent - Harlesden,17162.0,106.9,71.9,80.6
+595,Lambeth - Larkhall,17243.0,38.8,74.0,79.2
+596,Barnet - Coppetts,17250.0,72.5,76.7,81.1
+597,Bromley - Penge and Cator,17326.0,70.5,75.5,80.6
+598,Newham - Forest Gate South,17362.0,61.8,74.6,77.2
+599,Enfield - Upper Edmonton,17374.0,88.4,75.4,76.7
+600,Barnet - West Hendon,17402.0,85.8,78.2,84.3
+601,Barnet - Hale,17437.0,90.5,81.2,83.8
+602,Lewisham - Lewisham Central,17446.0,67.4,71.4,77.6
+603,Croydon - West Thornton,17489.0,81.5,77.6,82.5
+604,Greenwich - Woolwich Common,17499.0,100.5,73.9,85.4
+605,Barnet - Woodhouse,17575.0,57.8,78.6,81.1
+606,Ealing - Greenford Broadway,17625.0,93.5,77.4,81.2
+607,Newham - Stratford and New Town,17768.0,49.1,78.5,79.7
+608,Enfield - Edmonton Green,17949.0,124.1,74.8,79.6
+609,Croydon - Selhurst,18087.0,77.3,73.9,78.9
+610,Greenwich - Glyndon,18171.0,91.0,73.2,77.4
+611,Barnet - Burnt Oak,18217.0,94.3,74.7,82.1
+612,Barnet - Mill Hill,18451.0,63.8,80.7,86.6
+613,Barnet - Hendon,18472.0,88.4,80.1,85.3
+614,Croydon - Broad Green,18652.0,83.8,75.3,83.8
+615,Ealing - East Acton,18706.0,62.3,80.1,85.6
+616,Barnet - Golders Green,18818.0,98.7,78.3,84.2
+617,Greenwich - Woolwich Riverside,19120.0,84.4,73.8,80.2
+618,Tower Hamlets - Blackwall and Cubitt Town,19461.0,75.1,77.4,83.4
+619,Greenwich - Thamesmead Moorings,19730.0,122.5,74.3,77.5
+620,Barnet - Childs Hill,20049.0,69.0,77.4,82.0
+621,Tower Hamlets - Millwall,23084.0,58.1,83.6,95.0
